@@ -37,6 +37,10 @@
     <module>org.eclipse.epp.package.common</module>
     <module>org.eclipse.epp.package.common.feature</module>
 
+    <module>org.eclipse.epp.package.cpp</module>
+    <module>org.eclipse.epp.package.cpp.feature</module>
+    <module>org.eclipse.epp.package.cpp.product</module>
+
     <module>org.eclipse.epp.package.java</module>
     <module>org.eclipse.epp.package.java.feature</module>
     <module>org.eclipse.epp.package.java.product</module>
