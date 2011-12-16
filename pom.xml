@@ -24,12 +24,12 @@
     <repository>
       <id>eclipse-platform</id>
       <layout>p2</layout>
-      <url>http://download.eclipse.org/eclipse/updates/3.8milestones/S-3.8M3-201110271800</url>
+      <url>http://download.eclipse.org/eclipse/updates/3.8milestones</url>
     </repository>
     <repository>
       <id>eclipse</id>
       <layout>p2</layout>
-      <url>http://download.eclipse.org/releases/juno/201111110900</url>
+      <url>http://download.eclipse.org/releases/staging/</url>
     </repository>
   </repositories>
 
